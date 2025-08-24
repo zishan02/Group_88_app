@@ -15,6 +15,10 @@ import os
 from pathlib import Path
 !pip install streamlit
 import streamlit as st
+!pip install --upgrade pip
+
+
+
 
 # NLP libraries
 from sentence_transformers import SentenceTransformer
