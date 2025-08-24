@@ -15,8 +15,7 @@ import os
 from pathlib import Path
 !pip install streamlit
 import streamlit as st
-!pip install --upgrade pip
-
+pip install --upgrade pip
 
 
 
