@@ -82,8 +82,6 @@ cyipopt==1.5.0
 cymem==2.0.11
 Cython==3.0.12
 dask==2025.5.0
-dask-cuda==25.6.0
-dask-cudf-cu12==25.6.0
 dataproc-spark-connect==0.8.3
 datasets==4.0.0
 db-dtypes==1.4.3
