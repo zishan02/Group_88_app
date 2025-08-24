@@ -13,10 +13,6 @@ import os
 from pathlib import Path
 import streamlit as st
 
-
-!pip install --upgrade pip
-
-
 # NLP libraries
 from sentence_transformers import SentenceTransformer
 from sklearn.feature_extraction.text import TfidfVectorizer
