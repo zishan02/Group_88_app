@@ -7,8 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1YU4Q81VWpTjfOrEW0JWUK5087iAjd3Vs
 """
 
-# financial_qa_app.py
-
 import pandas as pd
 import time
 import os
@@ -16,6 +14,7 @@ from pathlib import Path
 !pip install streamlit
 import streamlit as st
 pip install --upgrade pip
+
 
 
 
