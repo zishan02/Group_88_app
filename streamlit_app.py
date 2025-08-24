@@ -11,7 +11,6 @@ import pandas as pd
 import time
 import os
 from pathlib import Path
-import streamlit as st
 
 # NLP libraries
 from sentence_transformers import SentenceTransformer
